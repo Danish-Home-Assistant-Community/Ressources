@@ -14,12 +14,12 @@ Name https://the-url-here Description
 
 mauran https://github.com/mauran/API-Danmark Liste over danske API'er
 
-Name 2 https://add-second-url-here Description
+Open Data https://www.opendata.dk/ Open Data DK er en forening af danske kommuner og regioner.
 
 **API List**
 
 Arbejdstilsynet https://api.at.dk/index Arbejdstilsynet API
 
-Københavns Kommune https://www.opendata.dk/city-of-copenhagen Københavns Kommune Datasamling
+Københavns Kommune https://www.opendata.dk/city-of-copenhagen Københavns Kommune Dataportal
 
 Rejseplanen https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API Rejseplanens API
