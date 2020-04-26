@@ -23,3 +23,5 @@ Arbejdstilsynet https://api.at.dk/index Arbejdstilsynet API
 Københavns Kommune https://www.opendata.dk/city-of-copenhagen Københavns Kommune Dataportal
 
 Rejseplanen https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API Rejseplanens API
+
+Skat https://dataudstilling.tfe.skat.dk/#/overblik Skat API
