@@ -20,6 +20,8 @@ Open Data https://www.opendata.dk/ Open Data DK er en forening af danske kommune
 
 Arbejdstilsynet https://api.at.dk/index Arbejdstilsynet API
 
+Danmarks Statistik https://www.dst.dk/da/Statistik/statistikbanken/api Danmarks Statistik API
+
 Københavns Kommune https://www.opendata.dk/city-of-copenhagen Københavns Kommune Dataportal
 
 Rejseplanen https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API Rejseplanens API
