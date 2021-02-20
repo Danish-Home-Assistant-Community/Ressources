@@ -14,4 +14,4 @@ username https://github.com/direct-link-to-your-github-repo
 
 allanpersson https://github.com/allanpersson/home-assistant-config
 
-MTrab https://github.com/MTrab/HomeAssistant
+MTrab https://github.com/MTrab/HAConfig
